@@ -44,7 +44,8 @@ Demo Test: Add to Cart – Shopee Web
 | Vợt cầu lông Yonex  | 2        | Added to cart, total price correct | Added to cart, total price correct         | Pass   |
 | Bình nước Lock&Lock | 2        | Added to cart, total price correct | Product is out of stock                    | Fail   |
 | Tai nghe TWS        | 0        | Cannot add                         | Please select different payment method     | Blocked| 
-// specify the reason for Blocked - luôn chỉ ra lí do bị blocke
+
+=> specify the reason for Blocked - luôn chỉ ra lí do bị blocke
 
 7. Kết quả 
 - Sản phẩm được thêm vào giỏ hàng đúng số lượng.
